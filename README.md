@@ -11,6 +11,7 @@ Rendered using [Lottie](https://airbnb.design/lottie/) and Controlled using [Ani
 Since I'm a terrible animator, feel free to edit it for your needs.
 Thanks for checking it out! 🐰
 
+## Credits
 Inspired by the awesome work done by [Chris Goldsby](https://github.com/cgoldsby/LoginCritter)
 
 ## License
