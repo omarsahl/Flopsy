@@ -12,7 +12,7 @@ Since I'm a terrible animator, feel free to edit it for your needs.
 Thank you! 🐰
 
 ## Credits
-Inspired by the awesome work done by [Chris Goldsby](https://github.com/cgoldsby/LoginCritter)
+Inspired by the awesome work done by [Chris Goldsby](https://github.com/cgoldsby/LoginCritter) and [Darin Senneff's](https://dribbble.com/shots/4249163-Animated-login-form-avatar?utm_campaign=iOS%2BDev%2BWeekly&utm_medium=web&utm_source=iOS%2BDev%2BWeekly%2BIssue%2B349)
 
 ## License
 
