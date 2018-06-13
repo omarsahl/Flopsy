@@ -4,8 +4,8 @@
 ![Demo gif](/art/demo_2.gif)
 
 ## Details
-The animation is made using [Adobe After Effects](https://www.adobe.com/products/aftereffects.html), Exported using [BodyMovin](https://aescripts.com/bodymovin/),
-Rendered using [Lottie](https://airbnb.design/lottie/) and Controlled using Lottie's [Animation Segments](http://airbnb.io/lottie/android/android.html#play-animation-segments)
+The animation is made using [Adobe After Effects](https://www.adobe.com/products/aftereffects.html), exported using [BodyMovin](https://aescripts.com/bodymovin/),
+rendered using [Lottie](https://airbnb.design/lottie/) and controlled using Lottie's [Animation Segments](http://airbnb.io/lottie/android/android.html#play-animation-segments)
 
 ## Comments
 Since I'm a terrible animator, feel free to edit it for your needs.
