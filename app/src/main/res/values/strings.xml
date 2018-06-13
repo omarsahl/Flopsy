@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Flopsy</string>
+    <string name="password_hint">Password</string>
+    <string name="email_hint">Email</string>
+</resources>
