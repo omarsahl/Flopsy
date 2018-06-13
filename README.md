@@ -1,7 +1,7 @@
 # Flopsy
 > A cute little bunny that responds to text fields interactions 🐰
 
-![Demo gif](/art/demo.gif)
+![Demo gif](/art/demo_2.gif)
 
 ## Details
 The animation is made using [Adobe After Effects](https://www.adobe.com/products/aftereffects.html), Exported using [BodyMovin](https://aescripts.com/bodymovin/),
@@ -9,7 +9,7 @@ Rendered using [Lottie](https://airbnb.design/lottie/) and Controlled using Lott
 
 ## Comments
 Since I'm a terrible animator, feel free to edit it for your needs.
-Thanks for checking it out! 🐰
+Thank you! 🐰
 
 ## Credits
 Inspired by the awesome work done by [Chris Goldsby](https://github.com/cgoldsby/LoginCritter)
