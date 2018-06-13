@@ -1,5 +1,5 @@
 # Flopsy
-> A cute little bunny that responds to text fields interactions 🐰🐰
+> A cute little bunny that responds to text fields interactions 🐰
 
 ![Demo gif](/art/demo.gif)
 
